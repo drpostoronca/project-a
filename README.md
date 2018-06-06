@@ -1,3 +1,2 @@
 # project-a
-ceva nou
-ooof
+hai iar
